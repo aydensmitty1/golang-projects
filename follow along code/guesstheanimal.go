@@ -101,7 +101,7 @@ func main() {
 					}
 				}
 			}
-
+			// Farm animal route -----------------------------------------------
 		}
 	} else {
 		fmt.Println("dang it")
@@ -182,6 +182,7 @@ func main() {
 					}
 				}
 			}
+			//oucean Animal route -----------------------------------------------
 		} else {
 			fmt.Println("dang it")
 			fmt.Println("is it an animal that lives by the ocean")
@@ -316,6 +317,7 @@ func main() {
 						}
 					}
 				}
+				//savana animal route ---------------------------------------------
 			} else {
 				fmt.Println("dang it")
 				fmt.Println("is it an animal that lives on the savana")
